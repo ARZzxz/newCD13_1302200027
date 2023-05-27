@@ -18,7 +18,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/ARZzxz/MKPL13_1302200027</url>
+      <url>https://maven.pkg.github.com/ARZzxz/newCD13_1302200027</url>
     </repository>
   </distributionManagement>
   
